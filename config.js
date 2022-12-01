@@ -9,11 +9,11 @@ const CONFIG = {
     desc: 'Nhưng lựa chọn này sẽ không cho em nói dối ',
     btnYes: 'Yêu anh nhất <33',
     btnNo: 'Em không yêu anh :3',
-    question:'Anh nhận được câu trả lời rồi <3',
+    question:'Thế anh có đẹp trai khum <3',
     btnReply: 'Anh đẹp trai nhất <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Gửi đến anh <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    messDesc: 'Hẹn công chúa thứ 7 gặp em nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.google.com.vn/search?tbm=isch&q=tr%C3%A1i+tim+to+%C4%91%C3%B9ng' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
